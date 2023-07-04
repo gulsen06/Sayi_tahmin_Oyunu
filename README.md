@@ -6,7 +6,6 @@ Project aims to create find the number game (between 0 to 100).
 
 ## Problem Statement
 
-- Your company has recently started on a project that aims to create a find the number game. So you and your colleagues have started to work on the project.
 - Each time the application is opened, it will keep a random number between 1-100 in the background.
 - The user makes a guess.
 - The number is compared and guided up/down until the user guess the correct number.
@@ -18,9 +17,9 @@ Project aims to create find the number game (between 0 to 100).
 ## Project Skeleton
 
 ```
-001-find-number(folder)
+find-number
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 |----solution
         |----index.html
         |----style.css
